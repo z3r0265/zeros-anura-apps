@@ -1,11 +1,11 @@
 {
-  "name": "youtube",
-  "icon": "youtube.png",
-  "summary": "YouTube Web App",
-  "desc": "Access YouTube through AnuraOS",
-  "package": "zero.youtube",
-  "data": "data.zip",
-  "index": "index.html",
-  "version": "1.0.0",
-  "category": "Utilities"
+    "name": "youtube",
+    "icon": "youtube.png",
+    "summary": "YouTube Web App",
+    "desc": "Access YouTube through AnuraOS",
+    "package": "zero.youtube",
+    "data": "data.zip",
+    "index": "index.html",
+    "version": "1.0.0",
+    "category": "Utilities"
 }
